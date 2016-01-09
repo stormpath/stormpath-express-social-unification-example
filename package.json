@@ -2,7 +2,7 @@
   "name": "stormpath-express-social-unification-example",
   "version": "1.0.0",
   "description": "An example Express.js website secured with Stormpath that unifies social login accounts.",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
