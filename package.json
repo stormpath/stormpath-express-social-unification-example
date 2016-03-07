@@ -24,7 +24,7 @@
   "homepage": "https://github.com/stormpath/stormpath-express-social-unification-example#readme",
   "dependencies": {
     "express": "^4.13.3",
-    "express-stormpath": "^2.3.4",
+    "express-stormpath": "^3.0.1",
     "node-uuid": "^1.4.7"
   }
 }
